@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0-develop.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/nitrictech/newcli/releases/download/v1.0.0-develop.4/newcli_1.0.0-develop.4_Windows_i386.zip",
+            "bin": [
+                "nitric.exe"
+            ],
+            "hash": "b79b1ffac0fbc17563124f7b27acc33acaf2a73dd7d1d41ca81aa2940a715669"
+        },
+        "64bit": {
+            "url": "https://github.com/nitrictech/newcli/releases/download/v1.0.0-develop.4/newcli_1.0.0-develop.4_Windows_x86_64.zip",
+            "bin": [
+                "nitric.exe"
+            ],
+            "hash": "fdff97e7089088841aef00b1c1e8b3c21fc7720b3f475bf9e12a119cda0d881f"
+        }
+    },
+    "homepage": "https://nitric.io",
+    "license": "Apache 2.0",
+    "description": "Nitric CLI"
+}
