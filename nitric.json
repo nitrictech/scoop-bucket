@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.0-develop.25",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/nitrictech/cli/releases/download/v1.0.0/nitric_1.0.0_Windows_i386.zip",
+            "url": "https://github.com/nitrictech/cli/releases/download/v1.0.0-develop.25/nitric_1.0.0-develop.25_Windows_i386.zip",
             "bin": [
                 "nitric.exe"
             ],
-            "hash": "1d0a9520bb8b5295b7839d9ed540a5f23daebf27ce6be8b9367d494783ad3d92"
+            "hash": "80a32ed29e6b2b01f57ca0e175723ea6715f6f30bb94b8531212449c8cac84d5"
         },
         "64bit": {
-            "url": "https://github.com/nitrictech/cli/releases/download/v1.0.0/nitric_1.0.0_Windows_x86_64.zip",
+            "url": "https://github.com/nitrictech/cli/releases/download/v1.0.0-develop.25/nitric_1.0.0-develop.25_Windows_x86_64.zip",
             "bin": [
                 "nitric.exe"
             ],
-            "hash": "6542f0fcf77b13cdc200fe76c46c53d2f2cf4ea9f5c56705dac320d6016981ad"
+            "hash": "f52fff50882dc12e2e9ef8c67117e7e1e602436f07c67f113f0c9ee12c7900e5"
         }
     },
     "homepage": "https://nitric.io",
