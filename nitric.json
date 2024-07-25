@@ -1,12 +1,12 @@
 {
-    "version": "1.47.0",
+    "version": "1.47.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nitrictech/cli/releases/download/v1.47.0/nitric_1.47.0_Windows_x86_64.zip",
+            "url": "https://github.com/nitrictech/cli/releases/download/v1.47.1/nitric_1.47.1_Windows_x86_64.zip",
             "bin": [
                 "nitric.exe"
             ],
-            "hash": "8c01d82f3c87c2c5cef99da6a6fbd03634742e9d42f1cee930156db3522bb644"
+            "hash": "584ee81cfc32f3fdc8d7057d12ef86e682cdb3ea6d120d725a76cd703c1a7d67"
         }
     },
     "homepage": "https://nitric.io",
